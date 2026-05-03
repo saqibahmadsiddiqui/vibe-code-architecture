@@ -1,0 +1,6 @@
+{
+  "name": "Vibe-Code Blueprint Generator",
+  "description": "Transforms a raw software idea into a structured architectural plan and an AI prompt sequence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
